@@ -24,7 +24,6 @@ I'm a Full-Stack Developer passionate about building modern web applications and
 - Authentication & Security
 - Scalable Application Architecture
 
-
 ## 🎥 Demo Video
 
-[![Watch Demo](https://youtu.be/odTBn4ikMFU)
+[![Watch Demo](https://img.youtube.com/vi/odTBn4ikMFU/0.jpg)](https://youtu.be/odTBn4ikMFU)
